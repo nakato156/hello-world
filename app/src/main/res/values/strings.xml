@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello world Beta</string>
+    <string name="title_activity_config_user">Config_user</string>
+</resources>
